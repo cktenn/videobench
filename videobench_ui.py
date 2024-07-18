@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python3
 
 import os
 os.environ['QT_MAC_WANTS_LAYER'] = '1'
